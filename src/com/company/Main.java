@@ -17,9 +17,10 @@ public class Main {
                     System.out.println(num);
                     // }else if (num % 7 == 0) {
                     //   System.out.println(num);
-                } else {
-                    System.out.print("");
                 }
+                //else {
+                   // System.out.print("");
+               // }
 
                 // System.out.println(num);
 
